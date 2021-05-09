@@ -1,4 +1,2 @@
 # WonderBot
-Fortnite lobbybot project
-REMEBMER WonderBotha still under
- development!
+Fortnite lobbybot project....REMEBMER WonderBota still under development!
